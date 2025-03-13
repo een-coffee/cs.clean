@@ -12,6 +12,7 @@ An application with the following layers:
 ./
 │   ├── LICENSE
 │   ├── README.md
+│   ├── TodoApp.sln
 │   ├── .gitignore
 │   ├── TodoApp
 │   │   ├── TodoApp.Domain                           # Entities and Interfaces
